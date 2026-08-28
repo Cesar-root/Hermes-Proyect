@@ -8,3 +8,5 @@ la cual por el momento tiene los siguientes componentes:
 - Modulos de nodejs
 - package.json que es para ver la configuracion del proyecto y sus dependencias
 - README.md que es este archivo que estas leyendo
+
+cuando se cambia un archivo se pone este texto verde en el git de visual code
